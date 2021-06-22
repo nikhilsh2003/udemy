@@ -1,0 +1,90 @@
+body {
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  font-size: 5.625rem;
+  margin: 3.125rem auto 0 auto;
+  font-family: "Great Vibes", cursive;
+  color: #66bfbf;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+  line-height: 2;
+  font-size: 1.3rem;
+}
+h2 {
+  font-family: "Great Vibes", cursive;
+  font-size: 3.5rem;
+  color: #66bfbf;
+  text-decoration: underline;
+}
+h3 {
+  font-size: 3.5rem;
+  font-family: "Great Vibes", cursive;
+}
+.top-container {
+  padding-top: 100px;
+  height: 100%;
+  font-family: "Montserrat", sans-serif;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 200px;
+}
+.circular {
+  border-radius: 100%;
+  width: 25%;
+}
+.skills-row0 h3 {
+  line-height: 1;
+  margin-bottom: 20px;
+}
+.skills-row1 h3 {
+  line-height: 1;
+  margin-bottom: 20px;
+}
+.skills-row0 {
+  width: 70%;
+  margin: 200px auto;
+  text-align: left;
+  line-height: 2;
+  margin: auto 0px auto 200px;
+}
+.skills-row1 {
+  width: 70%;
+  margin: 200px auto;
+  text-align: left;
+  line-height: 2;
+  margin: auto 0px auto 200px;
+}
+.skills-row0 img {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.skills-row1 img {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+hr {
+  width: 20%;
+  margin-top: 50px;
+  border-top: 10px dotted aqua;
+  margin-bottom: 50px;
+  clear: both;
+}
+
+.middle-container {
+  background-color: #fbc6a4;
+}
+a:hover {
+  background-color: whitesmoke;
+}
