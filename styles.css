@@ -1,0 +1,10 @@
+body {
+  align-self: center;
+  text-align: center;
+}
+
+.list-group {
+  margin-bottom: 30px;
+  margin-left: 13%;
+  margin-right: 13%;
+}
